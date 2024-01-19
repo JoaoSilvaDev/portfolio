@@ -19,6 +19,6 @@ I also made this trailer! :D
 <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/Rc5axouaJug?si=-fXLLTd2OC89pfEd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
 
 Check the game out on [itch-io](https://oxstudio.itch.io/capture)
+a
 
-
-![](c1.png) ![](c2.jpg) ![](c3.jpg) ![](c4.jpg)
+<!-- ![](c1.png) ![](c2.jpg) ![](c3.jpg) ![](c4.jpg) -->

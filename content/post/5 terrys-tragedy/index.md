@@ -16,4 +16,4 @@ Terry's Tragedy, a winning entry in the Weekly Game Jam, explored the theme "you
 
 Check the game out on [itch-io](https://nabonabo.itch.io/terrys-tragedy)
 
-![](tt1.gif) ![](tt2.gif)
+<!-- ![](tt1.gif) ![](tt2.gif) -->
