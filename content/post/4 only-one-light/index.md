@@ -12,8 +12,8 @@ tags:
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)
 ---
 
-Welcome to Hugo theme Stack. This is your first post. Edit or delete it, then start writing!
+Only One Light emerged from a game jam, where I handled all **game design** and **programming** using GameMaker. The platformer's unique concept involved juggling a ball as the sole light source. The focus on a small, polished portion taught me the value of simplicity in game jam projects. Although reflecting on it now, I would tweak the movement/juggling mechanics, the experience greatly influenced my current work on a work in progres project with similar mechanics.
 
-Want a site like this? Check out [hugo-theme-stack-stater](https://github.com/CaiJimmy/hugo-theme-stack-starter)
+Check the game out on [itch-io](https://joaosdev.itch.io/only-one-light)
 
-![Image 1](1.jpg) ![Image 2](2.jpg)
+![](o1.gif) ![](o2.gif) ![](o3.gif)

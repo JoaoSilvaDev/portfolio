@@ -12,8 +12,8 @@ tags:
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)
 ---
 
-Welcome to Hugo theme Stack. This is your first post. Edit or delete it, then start writing!
+Terry's Tragedy, a winning entry in the Weekly Game Jam, explored the theme "you are the villain." In this top-down grid turn-based puzzle game, players navigate levels with the challenge of reaching an exit without causing harm to bystanders, leading to increased police aggression. In this project, where I worked on **game design** and **programming**, I tried designing gameplay mechanics that evoke emotions independently, without relying on a predefined story or context. Later, the addition of a story/context layered on top further heightened the emotional impact.
 
-Want a site like this? Check out [hugo-theme-stack-stater](https://github.com/CaiJimmy/hugo-theme-stack-starter)
+Check the game out on [itch-io](https://nabonabo.itch.io/terrys-tragedy)
 
-![Image 1](1.jpg) ![Image 2](2.jpg)
+![](tt1.gif) ![](tt2.gif)
