@@ -21,4 +21,4 @@ I also made this trailer! :D
 Check the game out on [itch-io](https://oxstudio.itch.io/capture)
 a
 
-<!-- ![](c1.png) ![](c2.jpg) ![](c3.jpg) ![](c4.jpg) -->
+![Image 1](c1.png) ![Image 2](c2.jpg) ![Image 3](c3.jpg) ![Image 4](c4.jpg)
