@@ -20,4 +20,4 @@ In Capture, a university project, I worked as the game designer and producer. Co
 
 Check the game out on [itch-io](https://oxstudio.itch.io/capture)
 
-![Image 1](c1.png) ![Image 2](c2.jpg) ![Image 3](c3.jpg) ![Image 4](c4.jpg)
+<!-- ![Image 1](c1.png) ![Image 2](c2.jpg) ![Image 3](c3.jpg) ![Image 4](c4.jpg) -->

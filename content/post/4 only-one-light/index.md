@@ -16,4 +16,4 @@ Only One Light emerged from a game jam, where I handled all **game design** and 
 
 Check the game out on [itch-io](https://joaosdev.itch.io/only-one-light)
 
-![GIF 1](o1.gif) ![GIF 2](o2.gif) ![GIF 3](o3.gif)
+<!-- ![GIF 1](o1.gif) ![GIF 2](o2.gif) ![GIF 3](o3.gif) -->

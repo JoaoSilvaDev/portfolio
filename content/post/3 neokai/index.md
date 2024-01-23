@@ -18,6 +18,6 @@ Motivated by a desire for diverse learning experiences, Neokai emerged as a thir
 
 Check the game out on [itch-io](https://oxstudio.itch.io/neokai)
 
-![Image 1](n1.png) ![Image 2](n2.png)
+<!-- ![Image 1](n1.png) ![Image 2](n2.png) -->
 
 <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/uAxn4gAbK_8?si=Pz53aBHnh-V6D8Yo&amp;start=39" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
