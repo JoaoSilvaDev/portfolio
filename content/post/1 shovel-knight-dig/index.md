@@ -9,7 +9,7 @@ categories:
 tags:
     - Gameplay Programmer
     - UI Programmer
-weight: 3       # You can add weight to some posts to override the default sorting (date descending)
+weight: 1       # You can add weight to some posts to override the default sorting (date descending)
 ---
 
 In Shovel Knight Dig, I delved into serious **UI programming** for the first time. **Localization** added another layer of complexity, this experience taught me the importance of considering localization from the project's inception and maintaining a clean, decoupled project structure for smoother development.

@@ -9,7 +9,7 @@ categories:
 tags:
     - Game Designer
     - Gameplay Programmer
-weight: 1       # You can add weight to some posts to override the default sorting (date descending)
+weight: 5       # You can add weight to some posts to override the default sorting (date descending)
 ---
 
 Only One Light emerged from a game jam, where I handled all **game design** and **programming** using GameMaker. The platformer's unique concept involved juggling a ball as the sole light source. The focus on a small, polished portion taught me the value of simplicity in game jam projects. Although reflecting on it now, I would tweak the movement/juggling mechanics, the experience greatly influenced my current work on a work in progres project with similar mechanics.
