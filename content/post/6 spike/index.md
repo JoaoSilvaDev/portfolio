@@ -9,10 +9,11 @@ categories:
 tags:
     - Game Designer
     - Gameplay Programmer
-weight: 1       # You can add weight to some posts to override the default sorting (date descending)
+weight: 2       # You can add weight to some posts to override the default sorting (date descending)
 ---
 
-Terry's Tragedy, a winning entry in the Weekly Game Jam, explored the theme "you are the villain." In this top-down grid turn-based puzzle game, players navigate levels with the challenge of reaching an exit without causing harm to bystanders, leading to increased police aggression. In this project, where I worked on **game design** and **programming**, I tried designing gameplay mechanics that evoke emotions independently, without relying on a predefined story or context. Later, the addition of a story/context layered on top further heightened the emotional impact.
+Spike is a personal project, 2v2 volleyball game influenced by fighting games.
+Currently the team is comprised of 1 Game Designer and Programmer (me), 1 Artist, 1 Additional Programmer (AI Behaviour) and 1 Sound Designer and Composer. The game is still very early in development as we are all working on it in our free time.
 
 Check the game out on [itch-io](https://nabonabo.itch.io/terrys-tragedy)
 
