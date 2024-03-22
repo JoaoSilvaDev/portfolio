@@ -10,7 +10,7 @@ tags:
     - Game Designer
     - UI Designer
     - Producer
-weight: 3       # You can add weight to some posts to override the default sorting (date descending)
+weight: 2       # You can add weight to some posts to override the default sorting (date descending)
 ---
 
 In Capture, a university project, I worked as the game designer and producer. Collaborating with 2 teammates, we created a first-person puzzle game centered around taking pictures to solve challenges. The unique mechanics drew inspiration from The Witness and "picture modes" present in games. We also successfully presented the game at various cons, winning a pitch competition at Comic Con and winning an award for Best Art, and being nominated for Best Game at the PlayStation Awards Portugal. This project highlighted my skills in conceptualizing unconventional game mechanics and managing the production process.

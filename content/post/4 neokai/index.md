@@ -11,7 +11,7 @@ tags:
     - UI Designer
     - Gameplay Programmer
     - Producer
-weight: 4       # You can add weight to some posts to override the default sorting (date descending)
+weight: 3       # You can add weight to some posts to override the default sorting (date descending)
 ---
 
 Motivated by a desire for diverse learning experiences, Neokai emerged as a third-year project with the same collaborators from Capture. Seeking a stark contrast to our previous endeavor, we ventured into the development of a top-down competitive online shooter. My roles as a **Producer, Game and UI designer**, coupled with **Gameplay Programming**, allowed me to engage in character game design, player testing, and balancing. This project served as a deliberate exploration into a completely different genre, reinforcing the importance of adaptability and comprehensive project planning in game development.

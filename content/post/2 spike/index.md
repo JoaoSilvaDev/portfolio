@@ -9,7 +9,7 @@ categories:
 tags:
     - Game Designer
     - Gameplay Programmer
-weight: 2       # You can add weight to some posts to override the default sorting (date descending)
+weight: 4       # You can add weight to some posts to override the default sorting (date descending)
 ---
 
 Spike is a personal project, 2v2 volleyball game influenced by fighting games.
